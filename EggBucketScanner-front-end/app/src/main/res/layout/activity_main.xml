@@ -60,6 +60,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="16dp"
+        android:textColor="@color/white"
         android:background="@drawable/button_four"
         android:text="Upload" />
 
@@ -69,6 +70,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/upload"
         android:layout_marginBottom="8dp"
+        android:textColor="@color/white"
         android:background="@drawable/button_three"
         android:text="Scan from gallery" />
 
@@ -78,6 +80,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/galleryBtn"
         android:layout_marginBottom="8dp"
+        android:textColor="@color/white"
         android:background="@drawable/button_three"
         android:text="Scan 12th Marksheet" />
 
@@ -87,6 +90,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/button_scan_12"
         android:layout_marginBottom="8dp"
+        android:textColor="@color/white"
         android:background="@drawable/button_three"
         android:text="Scan 10th Marksheet" />
 
@@ -96,6 +100,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/button_scan_10"
         android:layout_marginBottom="8dp"
+        android:textColor="@color/white"
         android:background="@drawable/button_three"
         android:text="Scan Pan Card" />
 
@@ -105,6 +110,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/button_scan_pan"
         android:layout_marginBottom="8dp"
+        android:textColor="@color/white"
         android:background="@drawable/button_three"
         android:text="Scan Aadhar Card" />
 

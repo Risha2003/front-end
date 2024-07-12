@@ -41,7 +41,7 @@
         <activity
             android:name=".checkIncheckOut"
             android:exported="false"
-            android:theme="@style/Base" />
+            android:theme="@style/Base"/>
         <activity
             android:name=".loginActivity"
             android:exported="true"
@@ -51,6 +51,7 @@
 
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
+
         </activity>
         <activity
             android:name=".MainActivity"
